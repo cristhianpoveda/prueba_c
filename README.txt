@@ -1,3 +1,5 @@
+FLoat32 FOMO model library including inference script: model.cpp
+Built for processor arch ARM32v7
 
 # Edge Impulse library for RoadUsers
 
